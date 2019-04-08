@@ -1,10 +1,10 @@
 {
-  "name": "package-2",
+  "name": "package-2-lerna",
   "version": "1.0.5",
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
     "eslint": "^5.16.0"
   },
-  "gitHead": "20b2709436a28088b89e7d197a0da457c432fc03"
+  "gitHead": "587a33d0793e45f906efe29a77f3846a1c77b51b"
 }
