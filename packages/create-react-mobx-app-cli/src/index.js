@@ -21,6 +21,7 @@ const program = new commander.Command(packageJson.name)
   .parse(process.argv);
 
 if (program.hasOwnProperty('init')) {
+  console.log('TCL: program', program);
   createProject({ program });
   return;
 }
