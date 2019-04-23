@@ -1,6 +1,9 @@
 {
   "name": "root",
   "version": "0.0.2",
+  "scripts": {
+    "publish": "lerna publish --force-publish create-react-mobx-app-cli"
+  },
   "devDependencies": {
     "lerna": "^3.13.1"
   }
