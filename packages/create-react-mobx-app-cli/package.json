@@ -1,0 +1,31 @@
+{
+  "name": "@liepin/create-react-mobx-app-cli",
+  "version": "1.0.19",
+  "description": "写这个主要是为了我方便用的啊",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deari/okii-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deari/okii-cli/issues"
+  },
+  "bin": {
+    "iksw": "./src/index.js"
+  },
+  "homepage": "https://github.com/Deari/okii-cli#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.15.1",
+    "download-git-repo": "^1.0.2",
+    "handlebars": "^4.0.11",
+    "inquirer": "^6.0.0",
+    "log-symbols": "^2.2.0",
+    "ora": "^2.1.0"
+  }
+}
