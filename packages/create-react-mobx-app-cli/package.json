@@ -1,5 +1,5 @@
 {
-  "name": "@liepin/create-react-mobx-app-cli",
+  "name": "@liepin/create-react-mobx-cli",
   "version": "1.1.4",
   "description": "写这个主要是为了我方便用的啊",
   "main": "index.js",
@@ -27,5 +27,6 @@
     "inquirer": "^6.0.0",
     "log-symbols": "^2.2.0",
     "ora": "^2.1.0"
-  }
+  },
+  "gitHead": "5d29f8337c775e2702b7bf1d671fdae440c106e6"
 }
